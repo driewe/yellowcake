@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Experiential Gardener
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/04bab454-354f-4467-8411-9600dc9f928d/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
   description: This is a meta description.
