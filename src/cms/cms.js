@@ -10,7 +10,7 @@ import { BlogIndexTemplate } from '../templates/BlogIndex'
 import { SinglePostTemplate } from '../templates/SinglePost'
 import uploadcare from 'netlify-cms-media-library-uploadcare'
 
-CMS.registerMediaLibrary(uploadcare)
+CMS.registerMediaLibrary(uploadcare);
 
 if (
   window.location.hostname === 'localhost' &&
