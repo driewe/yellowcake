@@ -47,7 +47,7 @@ module.exports = {
       options: {
         name: 'Experiential Gardener',
         short_name: 'Experiential Gardener',
-        start_url: '/blog',
+        start_url: '/',
         background_color: '#00C2BD',
         theme_color: '#00C2BD',
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
