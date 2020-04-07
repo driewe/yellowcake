@@ -90,6 +90,8 @@ export const BlogIndexTemplate = ({
   </Location>
 )
 
+
+
 // Export Default BlogIndex for front-end
 const BlogIndex = ({ data: { page, posts, postCategories } }) => (
   <Layout
@@ -121,6 +123,7 @@ export const pageQuery = graphql`
   ## Use GraphiQL interface (http://localhost:8000/___graphql)
   ## $id is processed via gatsby-node.js
   ## query name must be unique to this file
+  
   query BlogIndex($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta

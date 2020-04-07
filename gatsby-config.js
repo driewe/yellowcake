@@ -1,6 +1,7 @@
 const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
+  pathPrefix: `/blog`,
   siteMetadata: {
     title: 'Experiential Gardener',
     siteUrl: 'https://experientialgardener.netlify.com'
@@ -46,7 +47,7 @@ module.exports = {
       options: {
         name: 'Experiential Gardener',
         short_name: 'Experiential Gardener',
-        start_url: '/',
+        start_url: '/blog',
         background_color: '#00C2BD',
         theme_color: '#00C2BD',
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
