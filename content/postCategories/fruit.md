@@ -2,6 +2,5 @@
 template: BlogIndex
 title: Fruit
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: 'https://ucarecdn.com/d1d5e82f-91f1-470d-a8bb-3fad40b38fbc/'
 ---
-
