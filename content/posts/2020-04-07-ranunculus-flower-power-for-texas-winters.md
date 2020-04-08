@@ -9,7 +9,8 @@ excerpt: >-
   other flower! That is because ranunculus produces prolific 3” to 4” ethereal
   blossoms borne on 12” to 18” stems in show-stopping pink, red, rose, orange,
   white, and yellow.
-categories: []
+categories:
+  - category: Flowers
 meta:
   title: 'Ranunculus: Flower Power for Texas Winters'
   description: >-

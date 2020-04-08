@@ -7,6 +7,8 @@ featuredImage: 'https://ucarecdn.com/9c962d06-a75f-4b48-91ab-3a8d423170b4/'
 excerpt: >-
   Parsnips are a wonderful crop to grow through the winter in Texas. In fact,
   cold weather imparts the parsnip root with a sweeter flavor!
+categories:
+  - category: Vegetables
 meta:
   title: Growing Parsnips in Texas
   description: >-

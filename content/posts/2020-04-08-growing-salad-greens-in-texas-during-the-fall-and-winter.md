@@ -11,6 +11,8 @@ excerpt: >-
   temperature also insures that the crop of salad greens lasts longer because
   hotter temperatures make them go to seed (bolt), and become bitter and
   inedible.
+categories:
+  - category: Vegetables
 meta:
   title: Growing Salad Greens in Texas during the Fall and Winter
   description: >-
