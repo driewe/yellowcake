@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'Ranunculus: Flower Power for Texas Winters'
 status: Draft
-date: 2013-12-29T18:34:45.123Z
+date: '2013-12-29'
 featuredImage: 'https://experientialgardener.netlify.com/images/ranunculus-mass.jpg'
 excerpt: >-
   Ranunculus Asiaticus or Persian Buttercups can brighten a Texas winter like no
