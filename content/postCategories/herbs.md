@@ -2,5 +2,5 @@
 template: BlogIndex
 title: Herbs
 subtitle: ''
-featuredImage: 'https://experientialgardener.netlify.com/herb-gardening.jpg'
+featuredImage: 'https://experientialgardener.netlify.com/images/herb-gardening.jpg'
 ---
