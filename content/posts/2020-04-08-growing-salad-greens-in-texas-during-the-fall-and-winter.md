@@ -2,7 +2,7 @@
 template: SinglePost
 title: Growing Salad Greens in Texas during the Fall and Winter
 status: Published
-date: 2012-12-19T02:28:14.595Z
+date: '2012-12-19'
 featuredImage: 'https://experientialgardener.netlify.com/images/salad.jpg'
 excerpt: >-
   Fall and winter are some of the best times to grow salad greens in Texas! Why?

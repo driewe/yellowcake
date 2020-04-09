@@ -2,7 +2,7 @@
 template: SinglePost
 title: Growing Parsnips in Texas
 status: Published
-date: 2013-12-11T02:12:18.493Z
+date: '2013-12-11'
 featuredImage: 'https://experientialgardener.netlify.com/images/parsnips-harvested-texas.jpg'
 excerpt: >-
   Parsnips are a wonderful crop to grow through the winter in Texas. In fact,
