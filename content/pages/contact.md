@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: 'https://ucarecdn.com/c2dca879-e8e0-4f95-b661-775bf26bbd32/'
+featuredImage: 'https://experientialgardener.netlify.com/images/pentas.jpg'
 subtitle: This is the contact page subtitle.
 address: '404 James St, Burleigh Heads QLD 4220'
 phone: 0987 123 456

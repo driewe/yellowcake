@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Experiential Gardener
-featuredImage: 'https://ucarecdn.com/04bab454-354f-4467-8411-9600dc9f928d/'
+featuredImage: 'https://experientialgardener.netlify.com/images/pentas.jpg'
 subtitle: '## **Urban Gardening In North Texas Zone 8a**'
 accordion:
   - title: Vegetables
