@@ -3,7 +3,7 @@ template: SinglePost
 title: Growing Parsnips in Texas
 status: Published
 date: 2013-12-11T02:12:18.493Z
-featuredImage: 'https://ucarecdn.com/9c962d06-a75f-4b48-91ab-3a8d423170b4/'
+featuredImage: 'https://experientialgardener.netlify.com/images/parsnips-harvested-texas.jpg'
 excerpt: >-
   Parsnips are a wonderful crop to grow through the winter in Texas. In fact,
   cold weather imparts the parsnip root with a sweeter flavor!
@@ -15,7 +15,7 @@ meta:
     Parsnips are a wonderful crop to grow through the winter in Texas. In fact,
     cold weather imparts the parsnip root with a sweeter flavor!
 ---
-![Parsnips](https://ucarecdn.com/cae83116-297f-48c2-aa31-fd7a90e7493a/ "Parsnips")
+![Parsnips](https://experientialgardener.netlify.com/images/parsnips-harvested-texas.jpg "Parsnips")
 <br><br>
 Parsnips are a wonderful crop to grow through the winter in Texas. In fact, cold weather imparts the parsnip root with a sweeter flavor!
 <br><br>
@@ -25,13 +25,13 @@ Parsnips prefer full sun and rock-free soil that contains some organic compost a
 <br><br>
 ## Planting Parsnips:
 <br><br>
-![Soaking parsnip seeds overnight to speed up germination.](https://ucarecdn.com/44838293-e1d0-4226-b6e3-c0c6be7c2078/ "Soaking parsnip seeds overnight to speed up germination.")
+![Soaking parsnip seeds overnight to speed up germination.](https://experientialgardener.netlify.com/images/parsnip-seeds.jpg "Soaking parsnip seeds overnight to speed up germination.")
 <br><br>
 Plant parsnip seeds in late September or October (before the first frost). Be sure to use parsnip seed that is not more than a year old. Parsnip seeds lose their viability quickly.
 <br><br>
 Soak parsnip seeds overnight before planting to reduce the amount of time it takes for them to germinate. Germination can take up to 3 to 4 weeks, or longer if the soil temperature has not cooled to their preferred germination temperature.
 <br><br>
-![Parsnip beds.](https://ucarecdn.com/379dce42-49d7-4e7c-8768-4297ae04a77b/ "Parsnip beds.")
+![Parsnip beds.](https://experientialgardener.netlify.com/images/two-parsnip-beds.jpg "Parsnip beds.")
 <br><br>
 Plant the seeds 1/2” deep and leave at least 6” between plants and space rows 18” apart. Since my parsnip beds are not very wide and I can reach into them easily; I did not leave a large row space between them, but I do have 2’ walkways around each of the beds.
 <br><br>
@@ -55,7 +55,7 @@ Parsnip roots are no longer edible when the plant begins to send up central shoo
 
 <br><br>
 
-![Parsnip flowers.](https://ucarecdn.com/6e2a6873-4761-4d5d-9d05-fc08cd000948/ "Parsnip flowers.")
+![Parsnip flowers.](https://experientialgardener.netlify.com/images/parsnip-flowers-2.jpg "Parsnip flowers.")
 
 <br><br>
 
@@ -67,7 +67,7 @@ Store your seeds in a cool, dry and dark place until you are ready to use them t
 
 <br><br>
 
-![Ripening parsnip seeds.](https://ucarecdn.com/7c2d9ac0-fdf4-4e95-b5b1-dbdb4f633409/ "Ripening parsnip seeds.")
+![Ripening parsnip seeds.](https://experientialgardener.netlify.com/images/growing-parsnip-seeds.jpg "Ripening parsnip seeds.")
 
 <br><br>
 
