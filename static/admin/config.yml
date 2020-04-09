@@ -4,16 +4,8 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 # display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
-media_library:
-  name: uploadcare
-  config:
-    publicKey: e3cab5fca630713d9f5e
-    multiple: false
-    tabs: 'file camera url facebook gdrive'
-    effects: 'crop,rotate,enhance,grayscale'
-    imageShrink: '2000x2000'
-    previewStep: true
-    clearable: true
+media_folder: static/images
+public_folder: /images
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
