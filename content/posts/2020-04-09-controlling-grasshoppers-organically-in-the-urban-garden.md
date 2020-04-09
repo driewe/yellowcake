@@ -2,8 +2,8 @@
 template: SinglePost
 title: Controlling Grasshoppers Organically in the Urban Garden
 status: Published
-date: 2012-07-18T15:49:32.132Z
-featuredImage: /images/grasshoppers-holding-by-legs.jpg
+date: 2012-07-18
+featuredImage: 'https://experientialgardener.netlify.com/images/grasshoppers-holding-by-legs.jpg'
 excerpt: >-
   In the last couple weeks I have noticed a rise in the number of grasshoppers
   in the garden and surrounding fields. I am not really surprised because last
@@ -11,6 +11,8 @@ excerpt: >-
   that more than a few people in these parts made allusions to the plague of
   locusts mentioned in the Book of Revelation and were sure it was yet another
   sign that the end of the world was near.
+categories:
+  - category: Vegetables
 meta:
   title: Controlling Grasshoppers Organically in the Urban Garden
   description: >-
