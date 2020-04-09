@@ -2,7 +2,7 @@
 template: SinglePost
 title: Fall is the Time to Divide and Transplant Perennials
 status: Published
-date: '2012-12-19'
+date: '2012-11-13'
 featuredImage: 'https://experientialgardener.netlify.com/images/salad.jpg'
 excerpt: >-
   Fall has finally arrived in North Texas! Fall (before the frost), is the best time to divide and plant your perennial flowers so that they have time to develop good, strong root systems for spring bloom.
