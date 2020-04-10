@@ -5,20 +5,13 @@ title: Components Page
 featuredImage: 'https://experientialgardener.netlify.com/images/pentas.jpg'
 subtitle: This is the components page subtitle.
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+  My name is Rebecca and I am the Experiential Gardener. I have been gardening for over forty years and live in North Central Texas, in Hardiness Zone 8a.
 section2: >-
   ## You can use videos, images and text.
+
+
 
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/G96IuzdKKdw" frameborder="0"
@@ -45,22 +38,10 @@ gallery:
   - alt: White Ranunculus
     image: 'https://experientialgardener.netlify.com/images/white-ranunculus.jpg'
     title: a bunch of umbrellas
-  - alt: White Ranunculus
-    image: 'https://experientialgardener.netlify.com/images/white-ranunculus.jpg'
-    title: a bunch of umbrellas
-  - alt: White Ranunculus
-    image: 'https://experientialgardener.netlify.com/images/white-ranunculus.jpg'
-    title: a bunch of umbrellas
-  - alt: White Ranunculus
-    image: 'https://experientialgardener.netlify.com/images/white-ranunculus.jpg'
-    title: a bunch of umbrellas
-  - alt: White Ranunculus
-    image: 'https://experientialgardener.netlify.com/images/white-ranunculus.jpg'
-    title: a bunch of umbrellas
-  - alt: White Ranunculus
-    image: 'https://experientialgardener.netlify.com/images/white-ranunculus.jpg'
-    title: a bunch of umbrellas
+
 meta:
   description: This is a meta description.
   title: Components Page
 ---
+
+Nothing here processed

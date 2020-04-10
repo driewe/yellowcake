@@ -15,10 +15,15 @@ meta:
 
 My name is Rebecca and I am the Experiential Gardener. I have been gardening for over forty years and live in North Central Texas, in Hardiness Zone 8a.
 
+
 Thanks for stopping by, [check out our blog](https://experientialgardener.netlify.com/blog/)
+
+<br><br>
+
 
 <center>
 
-![alt text](https://experientialgardener.netlify.com/images/rebecca-holding-basket.jpg "Logo Title Text 1")
+[![IMAGE ALT TEXT HERE](https://experientialgardener.netlify.com/images/rebecca-holding-basket.jpg "Rebecca holding a weekly harvest from her own Urban Garden in Denton, Tx.")](https://experientialgardener.netlify.com/blog)
+
 
 </center>
