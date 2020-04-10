@@ -3,7 +3,7 @@ template: SinglePost
 title: The First Tomatoes and Peppers
 status: Published
 date: 2012-05-29T19:48:45.128Z
-featuredImage: /images/first-tomatoes.jpg
+featuredImage: 'https://experientialgardener.netlify.com/images/first-tomatoes.jpg'
 excerpt: >-
   Tomato varieties include: Big Cherry, Sweet 100 Cherry, Pear and Grape
   Tomatoes, Porters and Sun Gold.
@@ -13,9 +13,9 @@ meta:
     Tomatoes, Porters and Sun Gold.
   title: The First Tomatoes and Peppers
 ---
+<br><br>
 ![](/images/first-tomatoes.jpg)
 
-<!--StartFragment-->
 
 The first tomatoes and peppers of the season have ripened today.\
 \
@@ -25,4 +25,3 @@ I prefer to plant smaller tomato varieties that mature quickly to beat the Texas
 \
 Pepper varieties from left to right include: Giant Sweet Marconi, Sweet Banana and California Wonder Bell Pepper. Peppers grow well in Texas. I always get large, continuous pepper crops in the spring, early summer and fall. During the heat wave of July and August, production slows down. During this time keep watering the plants to keep them alive and you will be rewarded with a huge crop of peppers when the weather begins to turn cooler in the fall.
 
-<!--EndFragment-->
