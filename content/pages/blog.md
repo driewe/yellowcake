@@ -5,6 +5,6 @@ title: Experiential Gardner Blog
 featuredImage: 'https://experientialgardener.netlify.com/images/pentas.jpg'
 subtitle: Urban Gardening In North Texas Zone 8a
 meta:
-  description: Urban Gardening In North Texas Zone 8a
+  description: Urban Gardening In North Texas Zone 8a 
   title: Experiential Gardner Blog
 ---
