@@ -19,6 +19,6 @@ Thanks for stopping by, [check out our blog](https://experientialgardener.netlif
 
 <center>
 
-![alt text](https://experientialgardener.netlify.com/images/rebecca-holding-basket.png "Logo Title Text 1")
+![alt text](https://experientialgardener.netlify.com/images/rebecca-holding-basket.jpg "Logo Title Text 1")
 
 </center>
