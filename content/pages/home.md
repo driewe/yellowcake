@@ -11,6 +11,14 @@ meta:
   title: Experiential Gardener - Urban Gardening In North Texas Zone 8a
   noindex: false
 ---
+
+
 My name is Rebecca and I am the Experiential Gardener. I have been gardening for over forty years and live in North Central Texas, in Hardiness Zone 8a.
 
 Thanks for stopping by, [check out our blog](https://experientialgardener.netlify.com/blog/)
+
+<center>
+
+![alt text](https://experientialgardener.netlify.com/images/rebecca-holding-basket.png "Logo Title Text 1")
+
+</center>
