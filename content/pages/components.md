@@ -48,3 +48,6 @@ meta:
   description: This is a meta description.
   title: Components Page
 ---
+My name is Rebecca and I am the Experiential Gardener. I have been gardening for over forty years and live in North Central Texas, in Hardiness Zone 8a.
+
+Thanks for stopping by, [check out our blog](https://experientialgardener.netlify.com/blog/)
