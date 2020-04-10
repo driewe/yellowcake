@@ -1,10 +1,10 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
+title: Experiential Gardner Blog
 featuredImage: 'https://experientialgardener.netlify.com/images/pentas.jpg'
-subtitle: This is the blog page subtitle.
+subtitle: Urban Gardening In North Texas Zone 8a
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: Urban Gardening In North Texas Zone 8a
+  title: Experiential Gardner Blog
 ---
