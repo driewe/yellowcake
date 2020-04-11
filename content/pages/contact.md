@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: 'https://experientialgardener.netlify.com/images/pentas.jpg'
+featuredImage: 'https://experientialgardener.netlify.com/images/experiential-gardener-banner.jpg'
 subtitle: This is the contact page subtitle.
 address: '404 James St, Burleigh Heads QLD 4220'
 phone: 0987 123 456
