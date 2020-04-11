@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: Experiential Gardner Blog
-featuredImage: 'https://experientialgardener.netlify.com/images/experiential-gardener-banner.jpg'
+featuredImage: 'https://experientialgardener.netlify.com/images/exp-gardener-header-flattened.jpg'
 subtitle: Urban Gardening In North Texas Zone 8a
 meta:
   description: Urban Gardening In North Texas Zone 8a 
