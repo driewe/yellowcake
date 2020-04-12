@@ -15,10 +15,11 @@ meta:
     Swiss Chard is a great green to grow in Texas because it is much more cold
     hardy and heat resistant to bolting or going to seed than lettuce.
 ---
+<br><br>
 ![](/images/swiss-chard-web.jpg)
 
-Swiss Chard is a great green to grow in Texas because it is much more cold hardy and heat resistant to bolting or going to seed than lettuce. It is also high in vitamins C and A, calcium, potassium, and iron and tastes somewhat like asparagus. It does contain a little oxalic acid like spinach and collards.\
-**\
+Swiss Chard is a great green to grow in Texas because it is much more cold hardy and heat resistant to bolting or going to seed than lettuce. It is also high in vitamins C and A, calcium, potassium, and iron and tastes somewhat like asparagus. It does contain a little oxalic acid like spinach and collards.
+
 Some Varieties of Swiss Chard:**
 
 **Bright Lights** has color stalks that range from bright yellow, pink, and light red/purple.\
