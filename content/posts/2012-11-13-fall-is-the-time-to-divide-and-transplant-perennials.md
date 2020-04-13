@@ -3,7 +3,7 @@ template: SinglePost
 title: Fall is the Time to Divide and Transplant Perennials
 status: Published
 date: '2012-11-13'
-featuredImage: 'https://experientialgardener.netlify.com/images/dividing-roots-of-shasta-daisies.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/dividing-roots-of-shasta-daisies.jpg'
 excerpt: >-
   Fall has finally arrived in North Texas! Fall (before the frost), is the best
   time to divide and plant your perennial flowers so that they have time to

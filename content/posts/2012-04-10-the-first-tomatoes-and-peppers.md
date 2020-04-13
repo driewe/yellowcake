@@ -3,7 +3,7 @@ template: SinglePost
 title: The First Tomatoes and Peppers
 status: Published
 date: '2012-05-29'
-featuredImage: 'https://experientialgardener.netlify.com/images/first-tomatoes.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/first-tomatoes.jpg'
 excerpt: >-
   Tomato varieties include: Big Cherry, Sweet 100 Cherry, Pear and Grape
   Tomatoes, Porters and Sun Gold.

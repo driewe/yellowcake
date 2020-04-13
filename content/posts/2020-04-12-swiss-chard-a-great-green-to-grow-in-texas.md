@@ -3,7 +3,7 @@ template: SinglePost
 title: 'Swiss Chard: a great green to grow in Texas'
 status: Published
 date: '2020-04-12'
-featuredImage: 'https://experientialgardener.netlify.com/images/swiss-chard-web.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/swiss-chard-web.jpg'
 excerpt: >-
   Swiss Chard is a great green to grow in Texas because it is much more cold
   hardy and heat resistant to bolting or going to seed than lettuce. 

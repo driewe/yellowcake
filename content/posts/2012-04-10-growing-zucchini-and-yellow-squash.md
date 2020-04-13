@@ -3,7 +3,7 @@ template: SinglePost
 title: Growing Zucchini and Yellow Squash
 status: Published
 date: '2012-06-20'
-featuredImage: 'https://experientialgardener.netlify.com/images/zucchini-and-yellow-squash.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/zucchini-and-yellow-squash.jpg'
 excerpt: >-
   Zucchini and yellow squash are some of the simplest and most rewarding
   vegetables to grow in your garden. Zucchini and yellow squash are summer

@@ -3,7 +3,7 @@ template: SinglePost
 title: Controlling Grasshoppers Organically in the Urban Garden
 status: Published
 date: 2012-07-18
-featuredImage: 'https://experientialgardener.netlify.com/images/grasshoppers-holding-by-legs.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/grasshoppers-holding-by-legs.jpg'
 excerpt: >-
   In the last couple weeks I have noticed a rise in the number of grasshoppers
   in the garden and surrounding fields. I am not really surprised because last

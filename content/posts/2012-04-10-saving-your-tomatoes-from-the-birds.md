@@ -3,7 +3,7 @@ template: SinglePost
 title: Saving Your Tomatoes from the Birds
 status: Published
 date: '2012-06-14'
-featuredImage: 'https://experientialgardener.netlify.com/images/bird-netting.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/bird-netting.jpg'
 excerpt: >-
   Birds like tomatoes as much as we do. There are different methods that you can
   use to outsmart the birds so that you get to enjoy your tomato crop instead of

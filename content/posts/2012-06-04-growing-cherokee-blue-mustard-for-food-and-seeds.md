@@ -3,7 +3,7 @@ template: SinglePost
 title: Growing Cherokee Blue Mustard for Food and Seeds
 status: Published
 date: '2012-06-04'
-featuredImage: 'https://experientialgardener.netlify.com/images/cherokee-blue-mustard-seed-2weeks.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/cherokee-blue-mustard-seed-2weeks.jpg'
 excerpt: >-
   Plant Cherokee Blue Mustard seeds 1/8" deep in a sunny location in
   well-drained soil in the fall or spring. The Cherokee Blue Mustard in this

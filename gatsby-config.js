@@ -4,7 +4,7 @@ module.exports = {
   pathPrefix: `/blog`,
   siteMetadata: {
     title: 'Experiential Gardener',
-    siteUrl: 'https://experientialgardener.netlify.com'
+    siteUrl: 'https://www.experientialgardener.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

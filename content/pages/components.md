@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Components Page
-featuredImage: 'https://experientialgardener.netlify.com/images/pentas.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/pentas.jpg'
 subtitle: This is the components page subtitle.
 section1: >-
 
@@ -33,10 +33,10 @@ accordion:
     title: Taciti lorem
 gallery:
   - alt: yellow rope image
-    image: 'https://experientialgardener.netlify.com/images/zucchini-and-yellow-squash.jpg'
+    image: 'https://www.experientialgardener.com/images/zucchini-and-yellow-squash.jpg'
     title: Yellow Squash
   - alt: White Ranunculus
-    image: 'https://experientialgardener.netlify.com/images/white-ranunculus.jpg'
+    image: 'https://www.experientialgardener.com/images/white-ranunculus.jpg'
     title: a bunch of umbrellas
 
 meta:

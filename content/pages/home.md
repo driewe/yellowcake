@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Experiential Gardener
-featuredImage: 'https://experientialgardener.netlify.com/images/exp-gardener-harvest.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/exp-gardener-harvest.jpg'
 subtitle: '## **Urban Gardening In North Texas Zone 8a**'
 meta:
   description: >-
@@ -16,14 +16,14 @@ meta:
 My name is Rebecca and I am the Experiential Gardener. I have been gardening for over forty years and live in North Central Texas, in Hardiness Zone 8a.
 
 
-Thanks for stopping by, [check out our blog](https://experientialgardener.netlify.com/blog/)
+Thanks for stopping by, [check out our blog](https://www.experientialgardener.com/blog/)
 
 <br><br>
 
 
 <center>
 
-[![IMAGE ALT TEXT HERE](https://experientialgardener.netlify.com/images/rebecca-holding-basket.jpg "Rebecca holding a weekly harvest from her own Urban Garden in Denton, Tx.")](https://experientialgardener.netlify.com/blog)
+[![IMAGE ALT TEXT HERE](https://www.experientialgardener.com/images/rebecca-holding-basket.jpg "Rebecca holding a weekly harvest from her own Urban Garden in Denton, Tx.")](https://www.experientialgardener.com/blog)
 
 
 </center>

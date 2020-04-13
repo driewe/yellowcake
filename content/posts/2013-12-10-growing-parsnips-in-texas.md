@@ -3,7 +3,7 @@ template: SinglePost
 title: Growing Parsnips in Texas
 status: Published
 date: '2013-12-11'
-featuredImage: 'https://experientialgardener.netlify.com/images/parsnips-harvested-texas.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/parsnips-harvested-texas.jpg'
 excerpt: >-
   Parsnips are a wonderful crop to grow through the winter in Texas. In fact,
   cold weather imparts the parsnip root with a sweeter flavor!
@@ -18,7 +18,7 @@ meta:
 
 <br>
 
-![Parsnips](https://experientialgardener.netlify.com/images/parsnips-harvested-texas.jpg "Parsnips")
+![Parsnips](https://www.experientialgardener.com/images/parsnips-harvested-texas.jpg "Parsnips")
 
 <br>
 
@@ -30,13 +30,13 @@ Parsnips prefer full sun and rock-free soil that contains some organic compost a
 
 ## Planting Parsnips:
 
-![Soaking parsnip seeds overnight to speed up germination.](https://experientialgardener.netlify.com/images/parsnip-seeds.jpg "Soaking parsnip seeds overnight to speed up germination.")
+![Soaking parsnip seeds overnight to speed up germination.](https://www.experientialgardener.com/images/parsnip-seeds.jpg "Soaking parsnip seeds overnight to speed up germination.")
 
 Plant parsnip seeds in late September or October (before the first frost). Be sure to use parsnip seed that is not more than a year old. Parsnip seeds lose their viability quickly.
 
 Soak parsnip seeds overnight before planting to reduce the amount of time it takes for them to germinate. Germination can take up to 3 to 4 weeks, or longer if the soil temperature has not cooled to their preferred germination temperature.
 
-![Parsnip beds.](https://experientialgardener.netlify.com/images/two-parsnip-beds.jpg "Parsnip beds.")
+![Parsnip beds.](https://www.experientialgardener.com/images/two-parsnip-beds.jpg "Parsnip beds.")
 
 Plant the seeds 1/2” deep and leave at least 6” between plants and space rows 18” apart. Since my parsnip beds are not very wide and I can reach into them easily; I did not leave a large row space between them, but I do have 2’ walkways around each of the beds.
 
@@ -58,7 +58,7 @@ Now cut the entire stem off each of your parsnips andwash the dirt off the roots
 
 Parsnip roots are no longer edible when the plant begins to send up central shoots that will in turn produce flowers. If you have grown your plants from heirloom seeds and want to grow seed for next year’s crop, then let one of the plants develop flowers and so seeds. The flowers are a lovely yellow and attract butterflies and honey bees.
 
-![Parsnip flowers.](https://experientialgardener.netlify.com/images/parsnip-flowers-2.jpg "Parsnip flowers.")
+![Parsnip flowers.](https://www.experientialgardener.com/images/parsnip-flowers-2.jpg "Parsnip flowers.")
 
 The flowers will turn into light green seed pods. The seeds are ready to harvest when they turn golden brown and begin to open.
 
@@ -66,7 +66,7 @@ To harvest the seeds, clip the seed heads off with scissors and place them in a 
 
 Store your seeds in a cool, dry and dark place until you are ready to use them to plant your next crop.
 
-![Ripening parsnip seeds.](https://experientialgardener.netlify.com/images/growing-parsnip-seeds.jpg "Ripening parsnip seeds.")
+![Ripening parsnip seeds.](https://www.experientialgardener.com/images/growing-parsnip-seeds.jpg "Ripening parsnip seeds.")
 
 **Cooking with Parsnips:** Parsnips make delicious soups. I especially like parsnip soup with curry. Parsnips can also be roasted with other winter vegetables or fried like potatoes.
 

@@ -2,5 +2,5 @@
 template: BlogIndex
 title: Flowers
 subtitle: ''
-featuredImage: 'https://experientialgardener.netlify.com/images/ranunculus-mass.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/ranunculus-mass.jpg'
 ---

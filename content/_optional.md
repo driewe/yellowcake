@@ -4,7 +4,7 @@ meta:
   description: ''
   noindex: false
   title: ''
-featuredImage: 'https://experientialgardener.netlify.com/images/rebecca-holding-basket.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/rebecca-holding-basket.jpg'
 gallery:
   - alt: ''
     image: ''

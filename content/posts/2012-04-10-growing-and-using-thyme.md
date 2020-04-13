@@ -3,7 +3,7 @@ template: SinglePost
 title: Growing and Using Thyme
 status: Published
 date: '2012-05-28'
-featuredImage: https://experientialgardener.netlify.com/images/rooting-thyme-in-water.jpg
+featuredImage: https://www.experientialgardener.com/images/rooting-thyme-in-water.jpg
 excerpt: >-
   Thyme is a very hardy and easy to grow herb. The word thyme comes from the
   Greek word "thymos" meaning spirit or smoke. Thyme survives below zero
