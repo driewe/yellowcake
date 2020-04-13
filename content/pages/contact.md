@@ -1,12 +1,12 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
-featuredImage: 'https://www.experientialgardener.com/images/experiential-gardener-banner.jpg'
-subtitle: This is the contact page subtitle.
+title: Experiential Gardner - Contact Page
+featuredImage: 'https://www.experientialgardener.com/images/exp-gardener-header-flattened.jpg'
+subtitle: 
 address: '404 James St, Burleigh Heads QLD 4220'
 phone: 0987 123 456
-email: example@example.com
+email: reb.barham@gmail.com
 locations:
   - lat: '-27.9654732'
     lng: '153.2432449'

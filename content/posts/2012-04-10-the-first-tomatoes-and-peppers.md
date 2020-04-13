@@ -7,6 +7,8 @@ featuredImage: 'https://www.experientialgardener.com/images/first-tomatoes.jpg'
 excerpt: >-
   Tomato varieties include: Big Cherry, Sweet 100 Cherry, Pear and Grape
   Tomatoes, Porters and Sun Gold.
+categories:
+  - category: Vegetables
 meta:
   description: >-
     Tomato varieties include: Big Cherry, Sweet 100 Cherry, Pear and Grape

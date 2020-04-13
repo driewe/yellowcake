@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
 title: Updates
-subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+subtitle: '## A Blog About Urban Gardening In North Texas Zone 8a'
+featuredImage: 'https://www.experientialgardener.com/images/exp-gardener-header-flattened.jpg'
 ---
 

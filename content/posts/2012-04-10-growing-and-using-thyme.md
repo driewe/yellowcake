@@ -8,6 +8,8 @@ excerpt: >-
   Thyme is a very hardy and easy to grow herb. The word thyme comes from the
   Greek word "thymos" meaning spirit or smoke. Thyme survives below zero
   temperatures and is evergreen here in Texas. 
+categories:
+  - category: Vegetables
 meta:
   title: Growing and Using Thyme
   description: >-

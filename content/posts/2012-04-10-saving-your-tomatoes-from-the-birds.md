@@ -9,7 +9,7 @@ excerpt: >-
   use to outsmart the birds so that you get to enjoy your tomato crop instead of
   losing it to the birds. 
 categories:
-  - category: Flowers
+  - category: Vegetables
 meta:
   title: Saving Your Tomatoes from the Birds
   description: >-

@@ -1,6 +1,6 @@
 ---
 template: BlogIndex
 title: Fruit
-subtitle: ''
+subtitle: '## A Blog About Urban Gardening In North Texas Zone 8a'
 featuredImage: 'https://www.experientialgardener.com/images/orange-tree-stock-image-royalty-free-image.jpg'
 ---
