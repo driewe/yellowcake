@@ -3,7 +3,7 @@ template: SinglePost
 title: 'Swiss Chard: a Beautiful Tasty Green that Grows Well in Texas '
 status: Published
 date: '2020-04-12'
-featuredImage: /images/swiss-chard.jpg
+featuredImage: https://www.experientialgardener.com/images/swiss-chard.jpg
 excerpt: >-
   Swiss Chard is a great green to grow in Texas because it is much more cold
   hardy and heat resistant to bolting or going to seed than lettuce. 
@@ -84,7 +84,8 @@ There are no real pest problems with Swiss Chard.  I find an occasional caterpil
 The beautiful colors and patterns of Swiss Chard leaves make them a great choice to plant with flowers too. Many gardeners plant Swiss Chard and pansies together in the fall. The Swiss Chard is taller than pansies, so it should be planted behind them.
 
 
-**Brief Summary:**\
+#### Brief Summary:
+
 **Planting Time:** Fall or Spring\
 **Light:** partial sun\
 **Seed Planting Depth:** 1/2"\
