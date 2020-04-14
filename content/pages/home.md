@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Experiential Gardener
-featuredImage: 'https://www.experientialgardener.com/images/exp-gardener-header-flattened21.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/exp-gardener-header-flattened.jpg'
 subtitle: '## Urban Gardening In North Texas Zone 8a'
 meta:
   description: >-
