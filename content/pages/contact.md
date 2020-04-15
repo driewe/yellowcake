@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Experiential Gardner - Contact Page
-featuredImage: 'https://www.experientialgardener.com/images/exp-gardener-header-flattened.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/experiential-gardener-blog-banner.jpg'
 subtitle: 
 address: 'Wisteria St'
 phone: ''

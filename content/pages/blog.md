@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: Experiential Gardner
-featuredImage: 'https://www.experientialgardener.com/images/exp-gardener-header-flattened.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/experiential-gardener-blog-banner.jpg'
 subtitle: '## A Blog About Urban Gardening In North Texas Zone 8a'
 meta:
   description: Urban Gardening In North Texas Zone 8a 
