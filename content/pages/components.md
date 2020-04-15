@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Components Page
-featuredImage: 'https://www.experientialgardener.com/images/exp-gardener-header-flattened.jpg'
+featuredImage: 'https://www.experientialgardener.com/images/experiential-gardener-blog-banner.jpg'
 subtitle: This is the components page subtitle.
 section1: >-
 

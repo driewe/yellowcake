@@ -1,7 +1,7 @@
 ---
 template: ContactPage
 slug: contact
-title: Experiential Gardner - Contact Page
+title: 
 featuredImage: 'https://www.experientialgardener.com/images/experiential-gardener-blog-banner.jpg'
 subtitle: 
 address: 'Wisteria St'

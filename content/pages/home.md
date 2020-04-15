@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: 'Experiential Gardener'
+title: ''
 featuredImage: 'https://www.experientialgardener.com/images/experiential-gardener-blog-banner.jpg'
-subtitle: '## Urban Gardening In North Texas Zone 8a'
+subtitle: ''
 meta:
   description: >-
     My name is Rebecca and I am the Experiential Gardener. I have been gardening
