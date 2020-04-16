@@ -6,7 +6,7 @@ featuredImage: 'https://www.experientialgardener.com/images/experiential-gardene
 subtitle: 
 address: 'Wisteria St'
 phone: ''
-email: reb.barham@gmail.com
+email: 'reb.barham@gmail.com'
 locations:
   - lat: '33.193346'
     lng: '-97.1585941'
