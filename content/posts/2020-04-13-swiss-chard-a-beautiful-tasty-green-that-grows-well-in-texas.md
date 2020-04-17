@@ -37,7 +37,7 @@ Swiss Chard prefers cooler weather (60's ideal), so I plant my Swiss Chard in th
 
 Once the plants have at least two sets of leaves, space them 8" to 12" apart. 
 
-![Swiss Chard spaced 12" apart in a bed with lettuce and spinach that were planted in the fall and still producing next spring](/images/winter-greens.jpg "Swiss Chard spaced 12\\" apart in a bed with lettuce and spinach that were planted in the fall and still producing next spring")
+![Swiss Chard spaced 12" apart in a bed with lettuce and spinach that were planted in the fall and still producing next spring](/images/winter-greens.jpg "Swiss Chard spaced 12 apart in a bed with lettuce and spinach that were planted in the fall and still producing next spring")
 
 You can either thin out (pull up) the plants to create this space between them, or lift out the small extra plants with a dining fork and transplant them elsewhere (such as a pot) or small pots to give away to friends. They grow well in pots. Plant only one plant per 10" diameter pot (with a drain hole). Always water plants after transplanting. 
 
