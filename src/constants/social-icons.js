@@ -12,7 +12,7 @@ export default [
     },
     {
         icon:<FaInstagram />,
-        url:"https://www.instagram.com/rebbarham/",
+        url:"https://www.instagram.com/experientialgardener/",
     },
     {
         icon:<FaYoutubeSquare />,
