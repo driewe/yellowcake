@@ -22,7 +22,7 @@ export default () => (
                 })}
             </div>
 
-  {/*   <InstagramFeed count="8" /> */}
+  {/*}<InstagramFeed count="8" />{*/}
     <footer className="footer">
 
 
