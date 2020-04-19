@@ -135,12 +135,6 @@ module.exports = {
         enableIdentityWidget: true
       }
     },
-    {
-      resolve: `gatsby-plugin-google-adsense`,
-      options: {
-        publisherId: `ca-pub-5025895647524071`
-      },
-    },
     'gatsby-plugin-netlify' // make sure to keep it last in the array
   ]
 }
