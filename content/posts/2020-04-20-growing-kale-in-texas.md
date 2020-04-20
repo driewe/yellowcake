@@ -1,13 +1,15 @@
 ---
 template: SinglePost
-title: Growing Kale in Texas
+title: 'Growing Kale in Texas'
 status: Published
-date: 2020-04-20T14:30:17.965Z
+date: '2020-04-20'
 featuredImage: https://www.experientialgardener.com/images/kale-harvest-wash.jpg
 excerpt: >-
   Kale is a very popular green that is very versatile and used in a lot of
   vegetable dishes. Kale is a great source of Vitamin K, Vitamin C, and Vitamin
   A.
+categories:
+  - category: Vegetables
 meta:
   description: >-
     Kale is a very popular green that is very versatile and used in a lot of
@@ -35,7 +37,7 @@ These varieties of kale grow well in Texas: Dwarf Blue Curled Vates, Premier and
 
 ### Planting: 
 
-Kale really grows best when planted in September or early October for a cool season crop here in Texas. This will allow you to have a steady supply of kale from late fall through the next spring without aphids, harlequin bugs and other pests that attack kale during the warmer weather. In addition, the cooler weather and frost actually improves the flavor of kale. If you do decide to plant them as a spring crop, plant the more heat resistant variety Tronchuda in early March. 
+Kale really grows best when planted in September or early October for a cool season crop here in Texas. This will allow you to have a steady supply of kale from late fall through the next spring without aphids, <a href="https://en.wikipedia.org/wiki/Harlequin_cabbage_bug" target="_blank" rel="noopener">harlequin bugs </a> and other pests that attack kale during the warmer weather. In addition, the cooler weather and frost actually improves the flavor of kale. If you do decide to plant them as a spring crop, plant the more heat resistant variety Tronchuda in early March. 
 
 Kale is easily grown from seeds planted directly in the garden. Plant seeds 1/4" deep in well-drained, humus rich soil in the sun (for the fall/winter crop), and partial shade (for the spring/summer crop) and water well. Seedlings will emerge in 6-9 days. 
 
@@ -45,7 +47,11 @@ Kale is easily grown from seeds planted directly in the garden. Plant seeds 1/4"
 
 Once the plants have at least two sets of leaves, space Dwarf Blue Curled Vates 12" apart,  Premier 15" apart, and Tronchuda 18" apart. You can either thin out (pull up) the plants to create this space between them, or lift out the small extra plants with a dining fork and transplant them elsewhere in the garden, or in a large, deep pot or whiskey. Always water plants after transplanting. 
 
-Watering Kale:  Kale likes moisture and good drainage. You can also add mulch to help maintain the moisture level. It is good to water in the evening during the hot months, and in the late morning or afternoon during cooler months. 
+<br>
+
+### Watering Kale:  
+
+Kale likes moisture and good drainage. You can also add mulch to help maintain the moisture level. It is good to water in the evening during the hot months, and in the late morning or afternoon during cooler months. 
 
 <br>
 
@@ -69,7 +75,7 @@ To prevent soil diseases, don't plant kale or any of the other member of the Bra
 
 
 
-Even though kale matures in 55-65 days, it can be harvested for many months (especially the fall planted crop).  You can start harvesting the bottom leaves when they are only 6" tall. Harvest bottom leaves as you need them by cutting them away from the central stalk or stem with scissors or a paring knife. 
+Even though kale matures in 55-65 days, it can be harvested for many months (especially the fall planted crop).  You can start harvesting the bottom leaves when they are only 6" long. Harvest bottom leaves as you need them by cutting them away from the central stalk or stem with scissors or a paring knife. 
 
 Harvesting only the lower-most leaves as you need them (instead of harvesting the entire plant at once), allows the plant to continue to produce new leaves from the top/center of the plant. 
 
@@ -87,7 +93,7 @@ If you have a large amount of leaves that you want to freeze and save for later 
 
 ### Culinary Uses for Kale:  
 
-Kale can be eaten raw in salads and added to smoothies. It can also be cooked as kale chips, stir-fried, steamed, sauteed, and used in place of spinach in recipes. The large, mild tasting tronghuda kale leaves can also be used as sandwich or cabbage roll wraps. 
+Kale can be eaten raw in salads and added to smoothies. It can also be cooked as kale chips, stir-fried, steamed, sauteed, and used in place of spinach in recipes. The large, mild tasting <a href="https://www.rareseeds.com/store/vegetables/kale/tronchuda-kale" target="_blank" rel="noopener">tronghuda kale </a>leaves can also be used as sandwich or cabbage roll wraps. 
 
 <br>
 
@@ -99,7 +105,7 @@ Kale can be eaten raw in salads and added to smoothies. It can also be cooked as
 2. Add 1 teaspoon of olive oil in 1 cup of water.
 3. Dip each leaf in the oil/water solution and then lay them 1 leaf deep on a cookie sheet or in a dehydrator.
 4. Add your favorite toppings. I like parmesan cheese and red pepper flakes.
-5. Bake in the oven at 350 degrees until crispy. Eat while warm. They don't store well.
+5. Bake in the oven at 350 degrees until crispy (10-20 minutes). Eat while warm. They don't store well.
 
 
 
