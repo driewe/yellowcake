@@ -13,6 +13,17 @@ export default function HTML(props) {
         />
         {props.headComponents}
         <script data-ad-client="ca-pub-5025895647524071" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47432237-8"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-47432237-8');
+          </script>
+
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
