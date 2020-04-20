@@ -135,6 +135,12 @@ module.exports = {
         enableIdentityWidget: true
       }
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-47432237-8",
+      },
+    },
     'gatsby-plugin-netlify' // make sure to keep it last in the array
   ]
 }
