@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: 'The Texas Spiny Lizard: a Gardener's Friend'
+title: "The Texas Spiny Lizard: a Gardener's Friend"
 status: Published
 date: '2020-04-21'
 featuredImage: https://www.experientialgardener.com/images/texas-spiny-lizard-sunning-on-a-log.jpg
