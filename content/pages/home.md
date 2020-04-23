@@ -13,9 +13,9 @@ meta:
 ---
 
 
-My name is Rebecca and I started the Experiential Gardener channel to share practical how-to Texas gardening information and tips that I have found to be useful based on my experience gardening in North Central Texas Zone 8a over the last forty plus years. Gardening in Texas is not difficult; it is just different. Much of the gardening information on seed packets and gardening publications/sites is written for milder climates and may not work well here. "Full sun" in Maine is very different from full sun in Texas. Gardeners in the Lone Star State need gardening information that works here, in Texas. 
+My name is Rebecca and I started the Experiential Gardener channel to share practical how-to Texas gardening information and tips that I have found to be useful based on my experience gardening in North Central Texas Zone 8a over the last forty plus years. <a href="https://itstimetexas.org/dads-tips-for-gardening-in-texas/" target="_blank" rel="noopener">Gardening in Texas</a> is not difficult; it is just different. Much of the gardening information on seed packets and gardening publications/sites is written for milder climates and may not work well here. "Full sun" in Maine is very different from full sun in Texas. <a href="http://texasgardenclubs.org/lone-star-gardener/" target="_blank" rel="noopener">Gardeners in the Lone Star State</a> need gardening information that works here, in Texas. 
 
-Thanks for stopping by, please [check out our blog](https://www.experientialgardener.com/blog/) and subscribe to our <a href="https://www.youtube.com/user/expgardener" target="_blank">youtube channel</a>
+Thanks for stopping by, please [check out our blog](https://www.experientialgardener.com/blog/) and subscribe to our <a href="https://www.youtube.com/user/expgardener" target="_blank" rel="noopener">youtube channel</a>
 
 <br><br><br>
 
