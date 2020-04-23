@@ -9,6 +9,8 @@ export default () => (
     <div className="taCenter">
     Have a question about Gardening? I would be more than happy to answer it via my  <a href="https://www.quora.com/profile/Rebecca-Barham-6" target="_blan" rel="noopener">profile on Quora</a>
     </div>
+    <br />
+    <br />
     <h3 className="taCenter">
       Follow Experiential Gardener on Social Media
     </h3>

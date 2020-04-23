@@ -31,6 +31,8 @@ export default ({ children }) => (
               <br />
               Head back to{' '}
               <Link to="/">{_get(data, 'globalSettings.siteTitle')}</Link>
+              <br />
+              Or  <a href="https://www.quora.com/profile/Rebecca-Barham-6" target="_blan" rel="noopener">ask a gardening question on Quora</a>
             </p>
           </div>
         </section>
