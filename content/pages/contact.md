@@ -18,4 +18,6 @@ meta:
 
 # Send Me Your Feed back
 
+Have a question about Gardening? I would be more than happy to answer it via my  <a href="https://www.quora.com/profile/Rebecca-Barham-6">profile on Quora</a>
+
 
