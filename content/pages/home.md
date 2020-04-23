@@ -22,7 +22,7 @@ Thanks for stopping by, please [check out our blog](https://www.experientialgard
 
 <center>
 
-[![IMAGE ALT TEXT HERE](https://www.experientialgardener.com/images/rebecca-holding-basket-new.jpg "Rebecca holding a weekly harvest from her own Urban Garden in Denton, Tx.")](https://www.experientialgardener.com/blog)
+[![IMAGE ALT TEXT HERE](https://www.experientialgardener.com/images/experiential-gardener-harvest-logo.jpg "Rebecca holding a weekly harvest from her own Urban Garden in Denton, Tx.")](https://www.experientialgardener.com/blog)
 
 
 </center>
