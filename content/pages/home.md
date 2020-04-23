@@ -17,7 +17,7 @@ My name is Rebecca and I started the Experiential Gardener channel to share prac
 
 Thanks for stopping by, please [check out our blog](https://www.experientialgardener.com/blog/) and subscribe to our <a href="https://www.youtube.com/user/expgardener" target="_blank">youtube channel</a>
 
-<br><br>
+<br><br><br>
 
 
 <center>
@@ -26,3 +26,5 @@ Thanks for stopping by, please [check out our blog](https://www.experientialgard
 
 
 </center>
+
+<br><br><br>
