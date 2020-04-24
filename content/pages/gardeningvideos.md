@@ -1,16 +1,12 @@
 ---
-template: SpringGardenVideos
-slug: springgardenvideos
+template: GardeningVideos
+slug: gardeningvideos
 title: 
 featuredImage: 'https://www.experientialgardener.com/images/experiential-gardener-blog-banner.jpg'
 subtitle: 
 address: 'Wisteria St'
 phone: ''
 email: 'rebecca@experientialgardener.com'
-locations:
-  - lat: '33.193346'
-    lng: '-97.1585941'
-    mapLink: ''
 meta:
   description: This is a meta description.
   title: Spring Garden Videos Playlist

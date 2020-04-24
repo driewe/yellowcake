@@ -12,6 +12,7 @@ meta:
   noindex: false
 ---
 
+<center>
 
 [![IMAGE ALT TEXT HERE](https://www.experientialgardener.com/images/experiential-gardener-harvest-logo.jpg "Rebecca holding a weekly harvest from her own Urban Garden in Denton, Tx.")](https://www.experientialgardener.com/blog)
 
@@ -20,4 +21,4 @@ meta:
 
 </center>
 
-<br><br>
+<br>
