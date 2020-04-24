@@ -5,13 +5,10 @@ title: Components Page
 featuredImage: 'https://www.experientialgardener.com/images/experiential-gardener-blog-banner.jpg'
 subtitle: This is the components page subtitle.
 section1: >-
+  My name is Rebecca and I am the Experiential Gardener. I have been gardening for over forty years and live in North Central Texas, in Hardiness Zone 8a.  
 
-
-  My name is Rebecca and I am the Experiential Gardener. I have been gardening for over forty years and live in North Central Texas, in Hardiness Zone 8a.
 section2: >-
   ## You can use videos, images and text.
-
-
 
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/G96IuzdKKdw" frameborder="0"

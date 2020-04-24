@@ -6,7 +6,7 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
-export const AboutPageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const SpringGardenVideosTemplate = ({ title, subtitle, featuredImage, body }) => (
   <main className="Home">
     <PageHeader
       large
@@ -24,13 +24,13 @@ export const AboutPageTemplate = ({ title, subtitle, featuredImage, body }) => (
 )
 
 // Export Default HomePage for front-end
-const AboutPage = ({ data: { page } }) => (
+const SpringGardenVideos = ({ data: { page } }) => (
   <Layout meta={page.frontmatter.meta || false}>
-    <AboutPageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <SpringGardenVideosTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
 
-export default AboutPage
+export default SpringGardenVideos
 
 export const pageQuery = graphql`
   ## Query for AboutPage data
@@ -38,7 +38,7 @@ export const pageQuery = graphql`
   ## $id is processed via gatsby-node.js
   ## query name must be unique to this file
   
-  query AboutPage($id: String!) {
+  query SpringGardenVideos($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       html

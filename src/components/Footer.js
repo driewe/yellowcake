@@ -7,7 +7,7 @@ import './Footer.css'
 export default () => (
   <div>
     <div className="taCenter">
-    <h3>Have a question about Gardening? I would be more than happy to answer it on  <a href="https://www.quora.com/profile/Rebecca-Barham-6" target="_blan" rel="noopener">profile on Quora</a></h3>
+    <h3>Have a question about Gardening? I would be more than happy to answer it on  <a href="https://www.quora.com/profile/Rebecca-Rose-356" target="_blan" rel="noopener">profile on Quora</a></h3>
     </div>
     <br />
     <br />
