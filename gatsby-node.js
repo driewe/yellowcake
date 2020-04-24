@@ -31,7 +31,7 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     const mdFiles = result.data.allMarkdownRemark.edges
-
+console.log(mdFiles)
     const contentTypes = _.groupBy(mdFiles, 'node.fields.contentType')
 
     _.each(contentTypes, (pages, contentType) => {
