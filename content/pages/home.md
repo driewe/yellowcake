@@ -25,7 +25,6 @@ Thanks for stopping by, please [check out our blog](https://www.experientialgard
 
 [![IMAGE ALT TEXT HERE](https://www.experientialgardener.com/images/experiential-gardener-harvest-logo.jpg "Rebecca holding a weekly harvest from her own Urban Garden in Denton, Tx.")](https://www.experientialgardener.com/blog)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSDe2Jct6l1WUb1qeXxdII3hoUekcn5T0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
