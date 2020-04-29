@@ -25,7 +25,7 @@ meta:
 ---
 <br>
 
-![](/images/grasshoppers-holding-by-legs.jpg)
+![Holding Grasshopper By Legs](/images/grasshoppers-holding-by-legs.jpg) "Holding Grasshoppers by the legs"
 
 <br>
 
