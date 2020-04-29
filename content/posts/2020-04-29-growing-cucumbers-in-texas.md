@@ -2,8 +2,8 @@
 template: SinglePost
 title: Growing Cucumbers in Texas
 status: Published
-date: 2020-04-29T13:03:11.590Z
-featuredImage: /images/persian-cucumbers.jpg
+date: '2020-04-29'
+featuredImage: https://www.experientialgardener.com/images/persian-cucumbers.jpg
 excerpt: >-
   Cucumbers are super easy to grow and very prolific producers. Cucumbers are a
   low-calorie food with small amounts of potassium, vitamin C, magnesium and
@@ -30,11 +30,19 @@ Cucumber Varieties: There are many varieties of cucumbers. Two varieties that I 
 
 ### Cucumber Flowers: 
 
+<br>
+
 ![Cucumber Blooms](/images/cucumber-blooms.jpg "Cucumber Blooms")
+
+<br>
 
 Cucumbers are self-pollinating. They make male and female flowers on the same plant. Pollen from male flowers is carried to female flowers by pollinators. You can also hand pollinate the female flowers by dipping a tiny paint brush in a fresh male flower to pick up the yellow pollen and then gently dip it in the female flower. Pollinating is easier to do when the flowers open up fully by late morning.
 
+<br>
+
 ![Only female flowers turn into cucumbers. A tiny cucumber can be seen at the end of this female cucumber flower](/images/small-cucumber-with-blossom.jpg "Only female flowers turn into cucumbers. A tiny cucumber can be seen at the end of this female cucumber flower")
+
+<br>
 
 Only female flowers turn into cucumbers. If you look closely, you will see a very tiny ovary or cucumber-to-be above the female flower. Male flowers will eventually fall off the plant. So don't worry when you see some yellow blossoms on the ground. 
 
@@ -46,7 +54,7 @@ Cucumbers are easily grown from seeds planted directly in the garden after all d
 
 <br>
 
-Types of Trellises: 
+### Types of Trellises: 
 
 ![Various materials for cucumber trellises: two tomato rings wired together, a roll of metal fencing, and a folding A-frame trellis](/images/cucumber-trellis-options.jpg "Various materials for cucumber trellises: two tomato rings wired together, a roll of metal fencing, and a folding A-frame trellis")
 
@@ -75,6 +83,8 @@ Cucumbers likes moisture and good drainage. You can also add straw or other mulc
 <br>
 
 ### Harvesting Cucumbers: 
+
+<br>
 
 ![Persian cucumbers that are ready to harvest](/images/cucumbers-on-vine.jpg "Persian cucumbers that are ready to harvest")
 
@@ -106,13 +116,16 @@ Cucumber pests include aphids and cucumber beetles (small lime green beetles wit
 
 Make a spray solution out of the following ingredients: 1 tablespoon baking soda and 1/2 teaspoon of a biodegradable liquid dish soap such as Seventh Generation, mixed into 1 gallon of water. Shake well and add to a spray bottle. Spray the plant in the evening, when sunlight is not shining on the leaves. 
 
-_____________________________________
-Brief Summary: 
-Planting Time: Spring, after the last frost (March 21st - April)
-Light: Full sun 
-Seed Planting Depth: 1/2"
-Soil: well-drained, with aged compost or manure
-Spacing:  12" apart if grown on a trellis
-Water: Likes moisture, add a layer of straw or other mulch to maintain moisture
-Height: 6' tall vines
-Culinary Use: Salads, tabouli, green smoothies, tzatziki. 
+<br>
+
+
+#### Brief Summary: 
+
+* **Planting Time:** Spring, after the last frost (March 21st - April)
+* **Light:** Full sun 
+* **Seed Planting Depth:** 1/2"
+* **Soil:** well-drained, with aged compost or manure
+* **Spacing:**  12" apart if grown on a trellis
+* **Water:** Likes moisture, add a layer of straw or other mulch to maintain moisture
+* **Height:** 6' tall vines
+* **Culinary Use:** Salads, tabouli, green smoothies, tzatziki. 
