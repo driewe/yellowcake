@@ -2,8 +2,8 @@
 template: SinglePost
 title: Growing Armenian Cucumbers in Texas
 status: Published
-date: 2020-05-01T14:34:09.118Z
-featuredImage: /images/metki-dark-armenian-cucumber.jpg
+date: '2020-05-01'
+featuredImage: https://www.experientialgardener.com/images/metki-dark-armenian-cucumber.jpg
 excerpt: >-
   Armenian cucumbers (Cucumis melo Var. flexuosus), are easy to grow and very
   prolific producers. They grow very well in Texas and are more heat tolerant
@@ -119,12 +119,13 @@ Cucumber pests include aphids and cucumber beetles (small lime green beetles wit
 
 Make a spray solution out of the following ingredients: 1 tablespoon baking soda and 1/2 teaspoon of a biodegradable liquid dish soap such as Seventh Generation, mixed into 1 gallon of water. Shake well and add to a spray bottle. Spray the plant in the evening, when sunlight is not shining on the leaves. 
 
+<br />
 
 #### Brief Summary: 
-<br>
+
 * **Planting Time:** Spring, after the last frost (March 21st - April)
 * **Light:** Full sun 
-* **Seed Planting Depth:* 1/2"
+* **Seed Planting Depth:** 1/2"
 * **Soil:** well-drained, with aged compost or manure
 * **Spacing:**  15" apart if grown on a trellis
 * **Water:** Likes moisture, add a layer of straw or other mulch to maintain moisture
