@@ -17,13 +17,13 @@ My name is Rebecca and I started the Experiential Gardener channel to share prac
 
 <a href = "./about">... Read My Full Story</a>
 
-Thanks for stopping by, please [check out our blog](https://www.experientialgardener.com/blog/) and subscribe to our <a href="https://www.youtube.com/user/expgardener" target="_blank" rel="noopener">youtube channel</a>
+Thanks for stopping by, please [check out our blog](/blog/) and subscribe to our <a href="https://www.youtube.com/user/expgardener" target="_blank" rel="noopener">youtube channel</a>
 
 <br>
 
 <center>
 
-[![IMAGE ALT TEXT HERE](https://www.experientialgardener.com/images/experiential-gardener-harvest-logo.jpg "Rebecca holding a weekly harvest from her own Urban Garden in Denton, Tx.")](https://www.experientialgardener.com/blog)
+[![IMAGE ALT TEXT HERE](/images/experiential-gardener-harvest-logo.jpg "Rebecca holding a weekly harvest from her own Urban Garden in Denton, Tx.")](https://www.experientialgardener.com/blog)
 
 
 </center>

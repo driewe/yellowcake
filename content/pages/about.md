@@ -58,7 +58,7 @@ been gardening in this type of environment since 1990.
 
 <br />
 
-Thanks for stopping by, please [check out our blog](https://www.experientialgardener.com/blog/) and subscribe to our <a href="https://www.youtube.com/user/expgardener" target="_blank" rel="noopener">youtube channel</a>
+Thanks for stopping by, please [check out our blog](/blog/) and subscribe to our <a href="https://www.youtube.com/user/expgardener" target="_blank" rel="noopener">youtube channel</a>
 
 <br />
 
