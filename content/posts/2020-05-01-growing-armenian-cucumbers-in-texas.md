@@ -97,9 +97,9 @@ Wash Armenian cucumbers and set them on a towel to air dry until they are almost
 
 ![](/images/armenian-cucumber-salad.jpg)
 
-Armenian cucumbers can be used in salads, sauces, and recipes calling for cucumbers. Here is an Armenian Cucumber soup recipe and other really good Armenian recipes. 
+Armenian cucumbers can be used in salads, sauces, and recipes calling for cucumbers. Here is an <a href="https://www.thearmeniankitchen.com/2009/07/armenian-cucumbers-3000-year-old.html" target="_blank" rel="noopener">Armenian Cucumber soup recipe</a> and other really good Armenian recipes. 
 
-### One of My Simple Armenian Cucumber salads: 
+### One of My Simple Armenian Cucumber salad recipes: 
 
 One Armenian Cucumber cut lengthwise and spoon out the seeds. Cut the two halves into 1/4" pieces. 
 1 can of Mandarian Orange slices (with juice)
