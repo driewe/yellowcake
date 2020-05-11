@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: */admin/
+Disallow: */tags/
+
+sitemap: https://www.experientialgardener.com/sitemap.xml

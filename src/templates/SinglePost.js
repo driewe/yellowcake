@@ -6,6 +6,7 @@ import { ChevronLeft } from 'react-feather'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
+import Disqus from '../components/Disqus'
 
 export const SinglePostTemplate = ({
   title,
@@ -81,6 +82,10 @@ export const SinglePostTemplate = ({
               </Link>
             )}
           </div>
+          <Disqus
+                title={title}
+              
+              />
         </div>
       </div>
     </article>

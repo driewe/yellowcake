@@ -33,6 +33,8 @@ Cucumbers are easily grown from seeds planted directly in the garden after all d
 
 <br>
 
+
+
 ### Types of Trellises:
 
 ![This cucumber trellis is constructed of two 6' wooden trellises with chicken wire over it. Four inch square wire would be more ideal because the small size of the holes in this wire require you to reposition some of these large cucumbers as they grow.)](/images/armenian-cucumber-trellis.jpg "This cucumber trellis is constructed of two 6' wooden trellises with chicken wire over it. Four inch square wire would be more ideal because the small size of the holes in this wire require you to reposition some of these large cucumbers as they grow.)")
