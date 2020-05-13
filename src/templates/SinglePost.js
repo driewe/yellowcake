@@ -84,7 +84,6 @@ export const SinglePostTemplate = ({
           </div>
           <Disqus
                 title={title}
-              
               />
         </div>
       </div>
@@ -125,6 +124,7 @@ export const pageQuery = graphql`
       id
       frontmatter {
         title
+        slug
         template
         subtitle
         date(formatString: "MMMM Do, YYYY")
