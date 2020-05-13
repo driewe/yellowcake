@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Growing Cherokee Blue Mustard for Food and Seeds
+slug: growing-cherokee-blue-mustard-for-food-and-seeds
 status: Published
 date: '2012-06-04'
 featuredImage: 'https://www.experientialgardener.com/images/cherokee-blue-mustard-seed-2weeks.jpg'

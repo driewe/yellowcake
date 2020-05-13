@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: 'Growing Kale in Texas'
+slug: growing-kale-in-texas
 status: Published
 date: '2020-04-20'
 featuredImage: https://www.experientialgardener.com/images/kale-harvest-wash.jpg

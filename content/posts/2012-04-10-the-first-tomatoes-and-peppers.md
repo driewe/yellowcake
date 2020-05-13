@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: The First Tomatoes and Peppers
+slug: the-first-tomatoes-and-peppers
 status: Published
 date: '2012-05-29'
 featuredImage: 'https://www.experientialgardener.com/images/first-tomatoes.jpg'

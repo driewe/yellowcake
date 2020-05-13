@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Fall is the Time to Divide and Transplant Perennials
+slug: fall-is-the-time-to-divide-and-transplant-perennials
 status: Published
 date: '2012-11-13'
 featuredImage: 'https://www.experientialgardener.com/images/dividing-roots-of-shasta-daisies.jpg'

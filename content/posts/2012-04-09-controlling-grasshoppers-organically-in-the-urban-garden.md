@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Controlling Grasshoppers Organically in the Urban Garden
+slug: controlling-grasshoppers-organically-in-the-urban-garden
 status: Published
 date: 2012-07-18
 featuredImage: 'https://www.experientialgardener.com/images/grasshoppers-holding-by-legs.jpg'

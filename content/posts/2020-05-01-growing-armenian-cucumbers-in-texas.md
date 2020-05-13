@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Growing Armenian Cucumbers in Texas
+slug: growing-armenian-cucumbers-in-texas
 status: Published
 date: '2020-05-01'
 featuredImage: https://www.experientialgardener.com/images/metki-dark-armenian-cucumber.jpg

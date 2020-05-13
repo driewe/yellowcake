@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Growing and Using Thyme
+slug: growing-and-using-thyme
 status: Published
 date: '2012-05-28'
 featuredImage: https://www.experientialgardener.com/images/rooting-thyme-in-water.jpg

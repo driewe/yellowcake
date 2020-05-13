@@ -1,7 +1,8 @@
 ---
 template: SinglePost
 title: 'Ranunculus: Flower Power for Texas Winters'
-status: Draft
+slug: ranunculus-flower-power-for-texas-winters
+status: Published
 date: '2013-12-29'
 featuredImage: 'https://www.experientialgardener.com/images/ranunculus-mass.jpg'
 excerpt: >-

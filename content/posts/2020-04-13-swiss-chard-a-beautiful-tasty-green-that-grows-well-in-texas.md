@@ -1,6 +1,7 @@
 ---
 template: SinglePost
-title: 'Swiss Chard: a Beautiful Tasty Green that Grows Well in Texas '
+title: 'Swiss Chard: a Beautiful Tasty Green that Grows Well in Texas'
+slug: swiss-chard-a-beautiful-tasty-green-that-grows-well-in-texas
 status: Published
 date: '2020-04-12'
 featuredImage: https://www.experientialgardener.com/images/swiss-chard.jpg

@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Growing Salad Greens in Texas during the Fall and Winter
+slug: growing-salad-greens-in-texas-during-the-fall-and-winter
 status: Published
 date: '2012-12-19'
 featuredImage: 'https://www.experientialgardener.com/images/salad.jpg'
