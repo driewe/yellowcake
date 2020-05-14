@@ -24,15 +24,17 @@ class Disqus extends Component {
   }
 
   render () {
+
     const { title, slug } = this.props
     if (!config.disqusShortname) {
       return null
     }
     const url = config.siteUrl + config.pathPrefix + slug
+   
     return (
       <ReactDisqusComments
         shortname={config.disqusShortname}
-        identifier={title}
+        identifier={slug}
         title={title}
         url={url}
         onNewComment={this.notifyAboutComment}
