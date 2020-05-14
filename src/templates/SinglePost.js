@@ -83,7 +83,7 @@ export const SinglePostTemplate = ({
               </Link>
             )}
           </div>
-        
+   
           <Disqus
                 title={title}
                 slug={slug}
