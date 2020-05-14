@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: 'Growing and Cooking Collard Greens in Texas'
+slug: growing-and-cooking-collard-greens-in-texas
 status: Published
 date: '2020-04-19'
 featuredImage: https://www.experientialgardener.com/images/collards.jpg

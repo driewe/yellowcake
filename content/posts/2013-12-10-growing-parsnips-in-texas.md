@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Growing Parsnips in Texas
+slug: growing-parsnips-in-texas
 status: Published
 date: '2013-12-11'
 featuredImage: 'https://www.experientialgardener.com/images/parsnips-harvested-texas.jpg'

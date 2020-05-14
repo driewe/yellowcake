@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Growing Cucumbers in Texas
+slug: growing-cucumbers-in-texas
 status: Published
 date: '2020-04-29'
 featuredImage: https://www.experientialgardener.com/images/persian-cucumbers.jpg

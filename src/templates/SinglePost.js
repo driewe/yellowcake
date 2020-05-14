@@ -10,6 +10,7 @@ import Disqus from '../components/Disqus'
 
 export const SinglePostTemplate = ({
   title,
+  slug,
   date,
   body,
   nextPostURL,
@@ -82,8 +83,10 @@ export const SinglePostTemplate = ({
               </Link>
             )}
           </div>
+        
           <Disqus
                 title={title}
+                slug={slug}
               />
         </div>
       </div>

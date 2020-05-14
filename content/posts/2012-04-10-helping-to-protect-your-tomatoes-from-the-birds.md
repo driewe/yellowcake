@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Helping to Protect Your Tomatoes from the Birds
+slug: helping-to-protech-your-tomatoes-from-the-birds
 status: Published
 date: '2012-06-14'
 featuredImage: 'https://www.experientialgardener.com/images/bird-netting.jpg'

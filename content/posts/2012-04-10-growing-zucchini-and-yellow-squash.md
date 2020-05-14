@@ -1,6 +1,7 @@
 ---
 template: SinglePost
 title: Growing Zucchini and Yellow Squash
+slug: growing-zucchini-and-yellow-squash
 status: Published
 date: '2012-06-20'
 featuredImage: 'https://www.experientialgardener.com/images/zucchini-and-yellow-squash.jpg'
