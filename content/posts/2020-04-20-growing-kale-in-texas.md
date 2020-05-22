@@ -18,6 +18,7 @@ meta:
     Vitamin A.
   title: Growing Kale in Texas
 ---
+
 <br>
 
 ![Harvested  Dwarf Blue Curled kale in a wash tub](/images/kale-harvest-wash.jpg "Harvested  Dwarf Blue Curled kale in a wash tub")

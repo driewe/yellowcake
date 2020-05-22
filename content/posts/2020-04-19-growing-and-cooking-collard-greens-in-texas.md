@@ -21,6 +21,7 @@ meta:
     calcium, and magnesium. They do contain oxalic acid like spinach and Swiss
     chard.
 ---
+
 <br>
 
 ![Collards or Collard Greens](/images/collards.jpg "Collards or Collard Greens")

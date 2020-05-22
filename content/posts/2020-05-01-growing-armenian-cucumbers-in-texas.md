@@ -18,6 +18,9 @@ meta:
     prolific producers. They grow very well in Texas and are more heat tolerant
     than regular cucumbers.
 ---
+
+<br>
+
 ![Metki-Dark Armenian cucumber ready to harvest](/images/metki-dark-armenian-cucumber.jpg "Metki-Dark Armenian cucumber ready to harvest")
 
 <br>
