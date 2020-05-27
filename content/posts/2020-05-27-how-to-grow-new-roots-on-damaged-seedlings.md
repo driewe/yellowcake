@@ -12,7 +12,7 @@ excerpt: >-
 categories:
   - category: Vegetables
 meta:
-  title: Growing Armenian Cucumbers in Texas
+  title: How to Grow New Roots on Damaged Seedlings
   description: >-
     A young pepper seedling was found lying at a 45-degree angle in the soil. Upon closer examination, the plant stem had been eaten apart from the roots by a cutworm. Cutworms are usually still hiding in the top ½” of soil. Remove the cutworm if you find one. 2nd photo:  The pepper has grown a new set of roots and can be transplanted back into the garden.)
 ---
