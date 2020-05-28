@@ -19,6 +19,10 @@ My name is Rebecca and I started the Experiential Gardener channel to share prac
 
 <br />
 
+I first began to learn how to garden from my father and our closest neighbor Ann Gallagher. My father's garden was one plus acres of all the typical garden vegetables (plus peanuts), and 1/2 acre watermelons and cantaloupes.  My father created my first garden for me when I was five years old. I remember planting bean seeds five or so inches deep. I planted them again when they did not sprout. I have had a garden every year from that year forward (except the year I lived in a college dorm). 
+
+<br />
+
 We planted traditional long rows and had access to a tractor to plow between them. My father and I 
 hoed between the individual plants to keep out weeds. During dry summers we would also lay and move 
 irrigation pipes to bring water to the plants from the nearby pond. I made extra money hoeing and made 
